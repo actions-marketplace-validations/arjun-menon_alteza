@@ -19,7 +19,7 @@ mdx-breakless-lists==1.0.1
     # via alteza (setup.py)
 mdx-truly-sane-lists==1.3
     # via alteza (setup.py)
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
     # via typing-inspect
 packaging==24.1
     # via typed-argument-parser
