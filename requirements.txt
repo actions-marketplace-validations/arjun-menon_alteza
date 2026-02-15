@@ -23,7 +23,7 @@ mypy-extensions==1.0.0
     # via typing-inspect
 packaging==24.1
     # via typed-argument-parser
-pycparser==2.22
+pycparser==3.0
     # via cffi
 pygit2==1.18.0
     # via alteza (setup.py)
