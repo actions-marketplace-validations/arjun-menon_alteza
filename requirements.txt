@@ -33,7 +33,7 @@ pypage==2.2.1
     # via alteza (setup.py)
 pyyaml==6.0.1
     # via alteza (setup.py)
-sh==2.0.7
+sh==2.2.2
     # via alteza (setup.py)
 tqdm==4.67.1
     # via alteza (setup.py)
